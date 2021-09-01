@@ -4,3 +4,8 @@ run software
 play games
 Watch videos
 connect to the Internet
+
+Apple iOS a mobile operating system and its functions are:
+a graphical user interface
+touchscreen
+applications, or "apps," can be opened by a single tap
